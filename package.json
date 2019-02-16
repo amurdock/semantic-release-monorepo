@@ -1,6 +1,6 @@
 {
-  "name": "semantic-release-monorepo",
-  "version": "0.0.0-development",
+  "name": "@vehq/semantic-release-monorepo",
+  "version": "1.0.0",
   "description": "Plugins for `semantic-release` allowing it to be used with a monorepo.",
   "main": "src/index.js",
   "files": [
@@ -23,7 +23,7 @@
     "pkg-up": "^2.0.0",
     "ramda": "^0.25.0",
     "read-pkg": "^3.0.0",
-    "semantic-release-plugin-decorators": "^1.2.1"
+    "@vehq/semantic-release-plugin-decorators": "^1.0.0"
   },
   "devDependencies": {
     "husky": "^0.14.3",
